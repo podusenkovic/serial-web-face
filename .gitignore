@@ -1,0 +1,6 @@
+.venv
+.vscode
+logs
+lib
+commands.json
+config.json
